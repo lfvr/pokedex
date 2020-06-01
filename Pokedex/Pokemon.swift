@@ -48,3 +48,7 @@ struct FlavorLanguage: Codable {
 struct Sprite: Codable {
     let front_default: String
 }
+
+enum ListOfTypes {
+    case Normal, Fire, Water, Grass, Electric, Ice, Fighting, Poison, Ground, Flying, Psychic, Bug, Rock, Ghost, Dragon
+}
