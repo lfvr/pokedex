@@ -17,15 +17,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Screenshot 2020-05-27 at 17.49.46.png" translatesAutoresizingMaskIntoConstraints="NO" id="76o-d2-5cs">
-                                <rect key="frame" x="52" y="352.66666666666669" width="271" height="107"/>
+                                <rect key="frame" x="52" y="353" width="271" height="107"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                        <constraints>
-                            <constraint firstItem="76o-d2-5cs" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="3uO-wQ-5B0"/>
-                            <constraint firstItem="76o-d2-5cs" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="308.66666666666669" id="6H8-QI-qQg"/>
-                            <constraint firstItem="76o-d2-5cs" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="mjW-Fi-l8X"/>
-                        </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                 </viewController>
