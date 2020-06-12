@@ -1,7 +1,7 @@
-# pokedex
+# Pokedex
 
-Pokedex project created for CS50X iOS track
+Pokedex app containing the original 151 pokemon. Searchable and can record whether the pokemon is currently caught. 
+
 
 Makes use of PokeAPI
-
 Swift5
